@@ -171,6 +171,10 @@ Copyright (c) 2026 Akshat Mishra. All Rights Reserved.
 
 This applies to original source code, documentation, architecture, and assets authored by the copyright holder. Third-party software, data, fonts, and contributions remain subject to their own licenses and notices. No additional permission is granted for those original materials. Viewing and forking through GitHub remain subject to GitHub’s Terms of Service. For licensing inquiries, contact the copyright holder through GitHub.
 
+## License history
+
+Earlier repository versions were distributed under Apache-2.0. This current notice does not revoke permissions already granted for those copies.
+
 ## Third-party data
 
 The UCI dataset remains subject to its source terms; see the dataset source and existing license history before reuse.
