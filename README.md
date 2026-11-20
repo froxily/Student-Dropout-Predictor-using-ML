@@ -165,6 +165,12 @@ Lists all Python dependencies with pinned versions for reproducibility.
 
 ---
 
-## 📝 License
+## Copyright & Ownership
 
-This project is for educational and research purposes. The dataset is made available by the UCI ML Repository under open access.
+Copyright (c) 2026 Akshat Mishra. All Rights Reserved.
+
+This applies to original source code, documentation, architecture, and assets authored by the copyright holder. Third-party software, data, fonts, and contributions remain subject to their own licenses and notices. No additional permission is granted for those original materials. Viewing and forking through GitHub remain subject to GitHub’s Terms of Service. For licensing inquiries, contact the copyright holder through GitHub.
+
+## Third-party data
+
+The UCI dataset remains subject to its source terms; see the dataset source and existing license history before reuse.
